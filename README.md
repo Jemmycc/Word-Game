@@ -9,6 +9,9 @@ This game is created with constructor functions.
 ## Description
 *	In the terminal window, the user simply types “node index.js” to start the game. Type a letter to start guessing the words for each challenge. The messages will show the remaining guesses, whether a letter guess is correct or incorrect, and completion or incompletion of the game. 
 
+## Demo 
+* click for [Word Game Demon](https://youtu.be/rgQzbrxok54)
+
 ## Development Details
 *	install the colors package to allow you to plan the colors for the different messages. The installation command is: “npm install colors.”
 *	Appropriate comments and error-checking have been added.
